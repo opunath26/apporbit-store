@@ -1,0 +1,992 @@
+[
+  {
+    "image": "https://i.ibb.co/0y8VKrN/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "size": 35,
+    "reviews": 5423198,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 120000
+      },
+      {
+        "name": "2 star",
+        "count": 80000
+      },
+      {
+        "name": "3 star",
+        "count": 200000
+      },
+      {
+        "name": "4 star",
+        "count": 700000
+      },
+      {
+        "name": "5 star",
+        "count": 4320000
+      }
+    ],
+    "description": "Spotify by Spotify AB is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Spotify continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Spotify continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Spotify continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Spotify continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/vZ6jHgb/instagram.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "size": 42,
+    "reviews": 12100000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 350000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 450000
+      },
+      {
+        "name": "4 star",
+        "count": 1200000
+      },
+      {
+        "name": "5 star",
+        "count": 9800000
+      }
+    ],
+    "description": "Instagram by Meta Platforms, Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Instagram continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Instagram continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Instagram continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Instagram continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/qYpvGkK/youtube.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 3,
+    "size": 48,
+    "reviews": 22500000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 800000
+      },
+      {
+        "name": "4 star",
+        "count": 1800000
+      },
+      {
+        "name": "5 star",
+        "count": 18800000
+      }
+    ],
+    "description": "YouTube by Google LLC is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: YouTube continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: YouTube continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: YouTube continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: YouTube continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/Bn1yCdn/whatsapp.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 4,
+    "size": 30,
+    "reviews": 12340000,
+    "ratingAvg": 4.7,
+    "downloads": 8000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 400000
+      },
+      {
+        "name": "4 star",
+        "count": 1500000
+      },
+      {
+        "name": "5 star",
+        "count": 10400000
+      }
+    ],
+    "description": "WhatsApp Messenger by WhatsApp LLC is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: WhatsApp Messenger continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: WhatsApp Messenger continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: WhatsApp Messenger continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: WhatsApp Messenger continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/8rJkM5b/facebook.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5,
+    "size": 55,
+    "reviews": 18900000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 800000
+      },
+      {
+        "name": "3 star",
+        "count": 1200000
+      },
+      {
+        "name": "4 star",
+        "count": 2400000
+      },
+      {
+        "name": "5 star",
+        "count": 13200000
+      }
+    ],
+    "description": "Facebook by Meta Platforms, Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Facebook continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Facebook continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Facebook continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Facebook continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/qY5CZ5B/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 6,
+    "size": 60,
+    "reviews": 9800000,
+    "ratingAvg": 4.4,
+    "downloads": 3000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 800000
+      },
+      {
+        "name": "4 star",
+        "count": 1800000
+      },
+      {
+        "name": "5 star",
+        "count": 6300000
+      }
+    ],
+    "description": "TikTok by ByteDance Ltd. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: TikTok continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: TikTok continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: TikTok continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: TikTok continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/Z8vNjx2/twitter.png",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 7,
+    "size": 40,
+    "reviews": 5600000,
+    "ratingAvg": 4.0,
+    "downloads": 2000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 900000
+      },
+      {
+        "name": "4 star",
+        "count": 1400000
+      },
+      {
+        "name": "5 star",
+        "count": 2200000
+      }
+    ],
+    "description": "X (Twitter) by X Corp. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: X (Twitter) continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: X (Twitter) continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: X (Twitter) continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: X (Twitter) continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/3vtT5v1/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 8,
+    "size": 38,
+    "reviews": 4200000,
+    "ratingAvg": 4.2,
+    "downloads": 1500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 600000
+      },
+      {
+        "name": "4 star",
+        "count": 1100000
+      },
+      {
+        "name": "5 star",
+        "count": 1900000
+      }
+    ],
+    "description": "Snapchat by Snap Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Snapchat continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Snapchat continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Snapchat continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Snapchat continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/L9VZPzS/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 9,
+    "size": 65,
+    "reviews": 8600000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 250000
+      },
+      {
+        "name": "3 star",
+        "count": 600000
+      },
+      {
+        "name": "4 star",
+        "count": 1600000
+      },
+      {
+        "name": "5 star",
+        "count": 5750000
+      }
+    ],
+    "description": "Netflix by Netflix, Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Netflix continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Netflix continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Netflix continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Netflix continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/4ffx0GS/googlemaps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 10,
+    "size": 45,
+    "reviews": 10400000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 500000
+      },
+      {
+        "name": "4 star",
+        "count": 1600000
+      },
+      {
+        "name": "5 star",
+        "count": 7800000
+      }
+    ],
+    "description": "Google Maps by Google LLC is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Google Maps continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Google Maps continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Google Maps continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Google Maps continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/RCwxf7y/zoom.png",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 11,
+    "size": 70,
+    "reviews": 6200000,
+    "ratingAvg": 4.3,
+    "downloads": 1500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 800000
+      },
+      {
+        "name": "4 star",
+        "count": 1400000
+      },
+      {
+        "name": "5 star",
+        "count": 3300000
+      }
+    ],
+    "description": "Zoom Cloud Meetings by Zoom Video Communications, Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Zoom Cloud Meetings continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Zoom Cloud Meetings continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Zoom Cloud Meetings continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Zoom Cloud Meetings continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/YZdPcJW/telegram.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 12,
+    "size": 35,
+    "reviews": 7200000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 250000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 400000
+      },
+      {
+        "name": "4 star",
+        "count": 1300000
+      },
+      {
+        "name": "5 star",
+        "count": 5100000
+      }
+    ],
+    "description": "Telegram by Telegram FZ-LLC is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Telegram continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Telegram continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Telegram continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Telegram continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/xFc2Xb7/capcut.png",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 13,
+    "size": 90,
+    "reviews": 5200000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 600000
+      },
+      {
+        "name": "4 star",
+        "count": 1200000
+      },
+      {
+        "name": "5 star",
+        "count": 2900000
+      }
+    ],
+    "description": "CapCut by Bytedance Pte. Ltd. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: CapCut continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: CapCut continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: CapCut continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: CapCut continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/v1FG5zN/candycrush.png",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "id": 14,
+    "size": 80,
+    "reviews": 9400000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 700000
+      },
+      {
+        "name": "4 star",
+        "count": 1400000
+      },
+      {
+        "name": "5 star",
+        "count": 6500000
+      }
+    ],
+    "description": "Candy Crush Saga by King is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Candy Crush Saga continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Candy Crush Saga continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Candy Crush Saga continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Candy Crush Saga continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/dpG7chB/pubg.png",
+    "title": "PUBG Mobile",
+    "companyName": "Tencent Games",
+    "id": 15,
+    "size": 750,
+    "reviews": 10200000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 900000
+      },
+      {
+        "name": "4 star",
+        "count": 2200000
+      },
+      {
+        "name": "5 star",
+        "count": 5900000
+      }
+    ],
+    "description": "PUBG Mobile by Tencent Games is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: PUBG Mobile continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: PUBG Mobile continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: PUBG Mobile continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: PUBG Mobile continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/9V4jW0z/googlechrome.png",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 16,
+    "size": 55,
+    "reviews": 15200000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600000
+      },
+      {
+        "name": "2 star",
+        "count": 350000
+      },
+      {
+        "name": "3 star",
+        "count": 700000
+      },
+      {
+        "name": "4 star",
+        "count": 1800000
+      },
+      {
+        "name": "5 star",
+        "count": 11600000
+      }
+    ],
+    "description": "Google Chrome by Google LLC is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Google Chrome continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Google Chrome continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Google Chrome continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Google Chrome continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/txxDd7D/gmail.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 17,
+    "size": 38,
+    "reviews": 9800000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 600000
+      },
+      {
+        "name": "4 star",
+        "count": 1600000
+      },
+      {
+        "name": "5 star",
+        "count": 6900000
+      }
+    ],
+    "description": "Gmail by Google LLC is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Gmail continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Gmail continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Gmail continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Gmail continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/4Jk8pG7/messenger.png",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 18,
+    "size": 45,
+    "reviews": 8600000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 900000
+      },
+      {
+        "name": "4 star",
+        "count": 1600000
+      },
+      {
+        "name": "5 star",
+        "count": 5100000
+      }
+    ],
+    "description": "Messenger by Meta Platforms, Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Messenger continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Messenger continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Messenger continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Messenger continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/2j5z9vS/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "id": 19,
+    "size": 60,
+    "reviews": 3400000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 500000
+      },
+      {
+        "name": "4 star",
+        "count": 800000
+      },
+      {
+        "name": "5 star",
+        "count": 1650000
+      }
+    ],
+    "description": "LinkedIn by Microsoft Corporation is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: LinkedIn continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: LinkedIn continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: LinkedIn continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: LinkedIn continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/2vRpN9R/discord.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 20,
+    "size": 75,
+    "reviews": 5800000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 400000
+      },
+      {
+        "name": "4 star",
+        "count": 900000
+      },
+      {
+        "name": "5 star",
+        "count": 4150000
+      }
+    ],
+    "description": "Discord by Discord Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Discord continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Discord continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Discord continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Discord continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/Kr8P8N8/slack.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies LLC",
+    "id": 21,
+    "size": 85,
+    "reviews": 2500000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150000
+      },
+      {
+        "name": "2 star",
+        "count": 90000
+      },
+      {
+        "name": "3 star",
+        "count": 300000
+      },
+      {
+        "name": "4 star",
+        "count": 500000
+      },
+      {
+        "name": "5 star",
+        "count": 1450000
+      }
+    ],
+    "description": "Slack by Slack Technologies LLC is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Slack continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Slack continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Slack continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Slack continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/kcSdjXc/reddit.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 22,
+    "size": 70,
+    "reviews": 3600000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 120000
+      },
+      {
+        "name": "3 star",
+        "count": 400000
+      },
+      {
+        "name": "4 star",
+        "count": 800000
+      },
+      {
+        "name": "5 star",
+        "count": 2080000
+      }
+    ],
+    "description": "Reddit by Reddit Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Reddit continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Reddit continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Reddit continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Reddit continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/4Vq4YzK/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 23,
+    "size": 60,
+    "reviews": 4700000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 180000
+      },
+      {
+        "name": "2 star",
+        "count": 100000
+      },
+      {
+        "name": "3 star",
+        "count": 300000
+      },
+      {
+        "name": "4 star",
+        "count": 900000
+      },
+      {
+        "name": "5 star",
+        "count": 3220000
+      }
+    ],
+    "description": "Pinterest by Pinterest Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Pinterest continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Pinterest continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Pinterest continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Pinterest continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/Y36mKDn/amazon.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 24,
+    "size": 80,
+    "reviews": 9900000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500000
+      },
+      {
+        "name": "2 star",
+        "count": 250000
+      },
+      {
+        "name": "3 star",
+        "count": 700000
+      },
+      {
+        "name": "4 star",
+        "count": 1600000
+      },
+      {
+        "name": "5 star",
+        "count": 6850000
+      }
+    ],
+    "description": "Amazon Shopping by Amazon Mobile LLC is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Amazon Shopping continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Amazon Shopping continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Amazon Shopping continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Amazon Shopping continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/5cwghNz/flipkart.png",
+    "title": "Flipkart",
+    "companyName": "Flipkart Internet Pvt Ltd.",
+    "id": 25,
+    "size": 65,
+    "reviews": 5200000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 500000
+      },
+      {
+        "name": "4 star",
+        "count": 1000000
+      },
+      {
+        "name": "5 star",
+        "count": 3200000
+      }
+    ],
+    "description": "Flipkart by Flipkart Internet Pvt Ltd. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Flipkart continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Flipkart continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Flipkart continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Flipkart continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/Ny4ZL6R/paypal.png",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings, Inc.",
+    "id": 26,
+    "size": 50,
+    "reviews": 3400000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 130000
+      },
+      {
+        "name": "3 star",
+        "count": 400000
+      },
+      {
+        "name": "4 star",
+        "count": 700000
+      },
+      {
+        "name": "5 star",
+        "count": 1970000
+      }
+    ],
+    "description": "PayPal by PayPal Holdings, Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: PayPal continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: PayPal continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: PayPal continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: PayPal continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/1JzxMtm/duolingo.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 27,
+    "size": 40,
+    "reviews": 6200000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 180000
+      },
+      {
+        "name": "2 star",
+        "count": 100000
+      },
+      {
+        "name": "3 star",
+        "count": 300000
+      },
+      {
+        "name": "4 star",
+        "count": 800000
+      },
+      {
+        "name": "5 star",
+        "count": 4820000
+      }
+    ],
+    "description": "Duolingo by Duolingo Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Duolingo continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Duolingo continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Duolingo continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Duolingo continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/ScHkSKP/shazam.png",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 28,
+    "size": 30,
+    "reviews": 4100000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 120000
+      },
+      {
+        "name": "2 star",
+        "count": 80000
+      },
+      {
+        "name": "3 star",
+        "count": 200000
+      },
+      {
+        "name": "4 star",
+        "count": 600000
+      },
+      {
+        "name": "5 star",
+        "count": 3100000
+      }
+    ],
+    "description": "Shazam by Apple Inc. is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Shazam continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Shazam continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Shazam continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Shazam continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/tZrfV7p/spotifylite.png",
+    "title": "Spotify Lite",
+    "companyName": "Spotify AB",
+    "id": 29,
+    "size": 10,
+    "reviews": 1900000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 80000
+      },
+      {
+        "name": "2 star",
+        "count": 50000
+      },
+      {
+        "name": "3 star",
+        "count": 150000
+      },
+      {
+        "name": "4 star",
+        "count": 400000
+      },
+      {
+        "name": "5 star",
+        "count": 1220000
+      }
+    ],
+    "description": "Spotify Lite by Spotify AB is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: Spotify Lite continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: Spotify Lite continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: Spotify Lite continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: Spotify Lite continues to refine its features and user experience through iterative improvements."
+  },
+  {
+    "image": "https://i.ibb.co/bJkK9fq/vlc.png",
+    "title": "VLC Media Player",
+    "companyName": "VideoLAN",
+    "id": 30,
+    "size": 55,
+    "reviews": 5000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 180000
+      },
+      {
+        "name": "2 star",
+        "count": 100000
+      },
+      {
+        "name": "3 star",
+        "count": 400000
+      },
+      {
+        "name": "4 star",
+        "count": 900000
+      },
+      {
+        "name": "5 star",
+        "count": 3420000
+      }
+    ],
+    "description": "VLC Media Player by VideoLAN is a widely used application designed to serve millions of users across the globe.\nThis description provides a detailed overview of features, usage, benefits, and practical tips in many lines for testing and display purposes.\nUse this long-form description in your app listing, documentation, or mockups to demonstrate how UI handles large text blocks.\nIt is structured as fifty separate lines to meet the user's request for long descriptions.\nEach line focuses on a small, digestible piece of information to remain readable despite the length.\nThe app combines intuitive design with powerful functionality to deliver a smooth user experience.\nUsers can install the app quickly and start using core features without an extensive setup process.\nThe interface is optimized for both casual users and power users who want more control.\nPerformance improvements over time mean the app runs well on a wide range of devices, including older hardware.\nSecurity and privacy are prioritized through thoughtful defaults and transparent settings.\nRegular updates include new features, bug fixes, and performance optimizations based on user feedback.\nThe developer team actively engages with the community and often publishes release notes.\nOnboarding flows and help centers are available inside the app to guide new users step-by-step.\nFor users concerned about storage, the app includes options to manage data and cache usage effectively.\nOffline capabilities let some features work without a network connection, improving resilience.\nAccessibility features are implemented to make the app usable by people with varying abilities.\nLocalization and language support allow people from many regions to enjoy the app in their preferred tongue.\nCustomization options help users tailor the appearance and behavior to their personal tastes.\nIntegration with other services and platforms increases productivity and convenience for many workflows.\nNotifications are configurable so users receive relevant alerts without being overwhelmed.\nIn-app search and smart suggestions speed up common tasks and reduce friction.\nPower users appreciate advanced settings that provide fine-grained control over the experience.\nThe app's analytics (when enabled) help the team improve features and prioritize user needs.\nCommunity forums and support channels are readily available for troubleshooting and tips.\nFor creators and professionals, export and share tools are included to collaborate seamlessly.\nDevelopers provide an SDK or API in some cases to let third-party apps extend functionality.\nThe design follows modern visual principles: clear hierarchy, readable typography, and intuitive icons.\nBattery efficiency is considered so intensive use doesn't drain devices faster than necessary.\nPrivacy controls let users decide what data to share and how their information is handled.\nData synchronization across devices is fast and reliable, ensuring a consistent experience.\nThe app includes safety features and reporting tools to keep the community respectful and secure.\nPerformance tips and recommended device settings are documented for users with constrained hardware.\nAdvanced search filters and sorting options help find content or conversations quickly.\nTutorials, sample projects, and templates accelerate learning and adoption for new users.\nSubscription and payment options are clearly explained and easy to manage from the account area.\nParental controls and family-sharing features are available where relevant to protect young users.\nThe app supports multiple content formats—text, audio, images, video—so workflows remain flexible.\nFrequent backups and restore options reduce the risk of losing important data unexpectedly.\nThe team listens to feature requests and sometimes runs public betas to gather early feedback.\nLegal and compliance information is available in the About or Settings section for transparency.\nPowerful search and discovery tools are paired with personalization to surface relevant content.\nThe app maintains compatibility with popular devices and operating systems through tested builds.\nFor enterprise users, administrative controls and enhanced security are offered via paid tiers.\nMulti-factor authentication and secure protocols protect accounts from unauthorized access.\nDevelopers optimize the app's startup time and background behavior to feel instantaneous.\nFinally, the app continues to evolve—roadmaps and community updates give users insight into what is coming next.\nAdditional info line 1: VLC Media Player continues to refine its features and user experience through iterative improvements.\nAdditional info line 2: VLC Media Player continues to refine its features and user experience through iterative improvements.\nAdditional info line 3: VLC Media Player continues to refine its features and user experience through iterative improvements.\nAdditional info line 4: VLC Media Player continues to refine its features and user experience through iterative improvements."
+  }
+]
