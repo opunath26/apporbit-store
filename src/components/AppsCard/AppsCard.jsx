@@ -3,7 +3,8 @@ import React from 'react';
 const AppsCard = ({ app }) => {
     const { title, downloads, image ,ratingAvg } = app;
     return (
-        <div className="bg-white shadow-md rounded-lg max-w-xs overflow-hidden">
+        <div className="bg-white shadow-md hover:shadow-lg rounded-lg max-w-xs overflow-hidden transition hover:-translate-y-2 duration-300 transform">
+
             {/* Image */}
             <img src={image} alt="App Image" className="p-4 w-80 h-80 object-cover" />
 
