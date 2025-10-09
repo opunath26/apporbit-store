@@ -9,7 +9,7 @@ const Home = () => {
     const data = useApps();
     console.log(data);
     const featuredApps = apps.slice(0,8)
-    console.log(apps);
+    // console.log(apps);
     return (
         <div>
             <div className="mx-auto mt-10 max-w-3xl text-center">

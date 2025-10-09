@@ -27,7 +27,7 @@ const AppsCard = ({ app }) => {
                             stroke="currentColor"
                             strokeLinecap="round"  
                             strokeLinejoin="round"  
-                            strokeWidth=''            
+                            strokeWidth={2}           
                         >
                             <path d="M4 16v1a2 2 0 002 2h12a2 2 0 002-2v-1M12 12v8m0-8L8 16m4-4l4 4M12 4v4m0 0L8 8m4 0l4 0" />
                         </svg>
