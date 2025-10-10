@@ -1,16 +1,37 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import useApps from '../../Hooks/useApps';
 import AppsCard from '../AppsCard/AppsCard';
+import LoadingSpinner from '../LoadingSpinner/LoadingSpinner';
 
 const Apps = () => {
   const { apps } = useApps();
   const [search, setSearch] = useState('');
+  const [loading, setLoading] = useState(true); 
 
   const term = search.trim().toLocaleLowerCase();
 
   const searchedApps = term
     ? apps.filter(app => app.title.toLocaleLowerCase().includes(term))
     : apps;
+
+
+
+  useEffect(() => {
+    if (apps.length > 0) {
+     
+      const timer = setTimeout(() => setLoading(false), 2000);
+      return () => clearTimeout(timer);
+    }
+  }, [apps]);
+
+
+  if (loading) {
+    return (
+      <div className="flex justify-center items-center h-screen">
+        <LoadingSpinner />
+      </div>
+    );
+  }
 
   return (
     <div>

@@ -6,6 +6,12 @@ const AppDetails = () => {
   const [app, setApp] = useState(null);
   const [isInstalled, setIsInstalled] = useState(false);
   const location = useLocation();
+  const [scaleUp, setScaleUp] = useState(false);
+
+  useEffect(() => {
+    const timer = setTimeout(() => setScaleUp(true), 100);
+    return () => clearTimeout(timer);
+  }, []);
 
   useEffect(() => {
     if (location.state?.app) {
@@ -24,7 +30,31 @@ const AppDetails = () => {
     }
   }, [app]);
 
-  if (!app) return <p>No app selected.</p>;
+  
+  if (!app)
+    return (
+      <div className="flex flex-col justify-center items-center h-screen">
+        <img
+          src="https://i.ibb.co.com/FbMMbMCM/logo.png"
+          alt="Logo"
+          className={`
+            w-16 h-16
+            ${scaleUp ? "scale-150" : "scale-75"}
+            transition-transform duration-2000 ease-in-out
+            animate-spin
+          `}
+        />
+        <p
+          className={`
+            mt-4 text-xl font-semibold
+            ${scaleUp ? "scale-125" : "scale-75"}
+            transition-transform duration-2000 ease-in-out
+          `}
+        >
+          Loading...
+        </p>
+      </div>
+    );
 
   const { title, downloads, image, ratingAvg, companyName, size, description, ratings } = app;
 
@@ -69,9 +99,9 @@ const AppDetails = () => {
             </div>
           </div>
 
-          <button 
-            onClick={handleInstallation} 
-            disabled={isInstalled} 
+          <button
+            onClick={handleInstallation}
+            disabled={isInstalled}
             className={`px-4 py-2 rounded font-semibold text-white transition 
               ${isInstalled ? "bg-green-900 hover:bg-green-600" : "bg-green-500 hover:bg-green-600"}`}
           >

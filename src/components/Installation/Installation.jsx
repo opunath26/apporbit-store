@@ -2,26 +2,51 @@ import React, { useEffect, useState } from "react";
 
 const Installation = () => {
   const [installedApps, setInstalledApps] = useState([]);
+  const [loading, setLoading] = useState(true); // 🔹 Loading state
+  const [scaleUp, setScaleUp] = useState(false); // 🔹 Animation state
 
   useEffect(() => {
-    
+    // 🔹 Animation start
+    const timer1 = setTimeout(() => setScaleUp(true), 100);
+    // 🔹 1 second por loading false
+    const timer2 = setTimeout(() => setLoading(false), 1000);
+
     const storedApps = localStorage.getItem("installedApps");
     if (storedApps) {
       setInstalledApps(JSON.parse(storedApps));
     }
+
+    return () => {
+      clearTimeout(timer1);
+      clearTimeout(timer2);
+    };
   }, []);
 
-  // Uninstall button click handler
-  const handleUninstall = (id) => {
-    const updatedApps = installedApps.filter((app) => app.id !== id);
-    setInstalledApps(updatedApps);
-    localStorage.setItem("installedApps", JSON.stringify(updatedApps));
-
-    const removedApp = installedApps.find(app => app.id === id);
-  if (removedApp) {
-    alert(`${removedApp.title} has been uninstalled!`);
-  }
-  };
+  // 🔹 Loading spinner UI
+  if (loading)
+    return (
+      <div className="flex flex-col justify-center items-center h-screen">
+        <img
+          src="https://i.ibb.co.com/FbMMbMCM/logo.png"
+          alt="Logo"
+          className={`
+            w-16 h-16
+            ${scaleUp ? "scale-150" : "scale-75"}
+            transition-transform duration-1000 ease-in-out
+            animate-spin
+          `}
+        />
+        <p
+          className={`
+            mt-4 text-xl font-semibold
+            ${scaleUp ? "scale-125" : "scale-75"}
+            transition-transform duration-1000 ease-in-out
+          `}
+        >
+          Loading...
+        </p>
+      </div>
+    );
 
   return (
     <div className="bg-gray-50 py-10 min-h-screen">
@@ -105,6 +130,18 @@ const Installation = () => {
       </div>
     </div>
   );
+
+  // Uninstall button click handler
+  function handleUninstall(id) {
+    const updatedApps = installedApps.filter((app) => app.id !== id);
+    setInstalledApps(updatedApps);
+    localStorage.setItem("installedApps", JSON.stringify(updatedApps));
+
+    const removedApp = installedApps.find((app) => app.id === id);
+    if (removedApp) {
+      alert(`${removedApp.title} has been uninstalled!`);
+    }
+  }
 };
 
 export default Installation;
