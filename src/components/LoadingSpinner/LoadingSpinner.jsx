@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import logo from "../../assets/logo.png"; // image import ✅
+import logo from "../../assets/logo.png"; 
 
 const LoadingSpinner = () => {
   const [scaleUp, setScaleUp] = useState(false);
@@ -12,7 +12,7 @@ const LoadingSpinner = () => {
   return (
     <div className="flex flex-col justify-center items-center h-screen">
       <img
-        src={logo} // imported image use ✅
+        src={logo}
         alt="Logo"
         className={`
           w-16 h-16

@@ -23,17 +23,3 @@ const ErrorPage = () => {
 };
 
 export default ErrorPage;
-
-
-// import { useParams } from "react-router";
-// import useApps from "../../Hooks/useApps";
-
-// const AppDetails = () => {
-
-//     const { id } = useParams();
-//     const { apps, loading, error } = useApps();
-    
-//     const app = apps.find(a => String(a.id) === id);
-// // console.log("apps data:", apps);
-//     if(loading)  return <p>Loading.......</p>
-//     const { title, downloads, image, ratingAvg, companyName , size, description} = app;

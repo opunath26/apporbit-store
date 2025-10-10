@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router';
-import '../../assets/logo.png';
+import logo from "../../assets/logo.png"; 
 
 const Navbar = () => {
     return (
@@ -27,7 +27,7 @@ const Navbar = () => {
     </div>
     <Link to='/' className="flex items-center font-bold text-2xl">
   <img 
-    src="/src/assets/logo.png" 
+    src= {logo} 
     alt="AppOrbit Logo" 
     className="mr-2 w-8 h-8"
   />
