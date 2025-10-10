@@ -16,6 +16,11 @@ const Installation = () => {
     const updatedApps = installedApps.filter((app) => app.id !== id);
     setInstalledApps(updatedApps);
     localStorage.setItem("installedApps", JSON.stringify(updatedApps));
+
+    const removedApp = installedApps.find(app => app.id === id);
+  if (removedApp) {
+    alert(`${removedApp.title} has been uninstalled!`);
+  }
   };
 
   return (
