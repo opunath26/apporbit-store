@@ -2,13 +2,12 @@ import React, { useEffect, useState } from "react";
 
 const Installation = () => {
   const [installedApps, setInstalledApps] = useState([]);
-  const [loading, setLoading] = useState(true); // 🔹 Loading state
-  const [scaleUp, setScaleUp] = useState(false); // 🔹 Animation state
+  const [loading, setLoading] = useState(true);
+  const [scaleUp, setScaleUp] = useState(false);
+  const [sortOrder, setSortOrder] = useState(""); // 🔹 Sorting state
 
   useEffect(() => {
-    // 🔹 Animation start
     const timer1 = setTimeout(() => setScaleUp(true), 100);
-    // 🔹 1 second por loading false
     const timer2 = setTimeout(() => setLoading(false), 1000);
 
     const storedApps = localStorage.getItem("installedApps");
@@ -22,7 +21,19 @@ const Installation = () => {
     };
   }, []);
 
-  // 🔹 Loading spinner UI
+  // 🔹 Sort apps whenever sortOrder changes
+  useEffect(() => {
+    if (sortOrder === "High-Low") {
+      setInstalledApps((prev) =>
+        [...prev].sort((a, b) => b.downloads - a.downloads)
+      );
+    } else if (sortOrder === "Low-High") {
+      setInstalledApps((prev) =>
+        [...prev].sort((a, b) => a.downloads - b.downloads)
+      );
+    }
+  }, [sortOrder]);
+
   if (loading)
     return (
       <div className="flex flex-col justify-center items-center h-screen">
@@ -67,23 +78,30 @@ const Installation = () => {
             {installedApps.length} App{installedApps.length !== 1 ? "s" : ""} Found
           </h2>
 
+          {/* Sort Dropdown */}
           <div className="relative">
-            <button className="flex items-center gap-2 bg-white hover:bg-gray-100 px-3 py-1 border border-gray-300 rounded-md text-gray-700 text-sm">
-              Sort By Size
-              <svg
-                className="w-4 h-4"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  d="M19 9l-7 7-7-7"
-                />
-              </svg>
-            </button>
+            <select
+              value={sortOrder}
+              onChange={(e) => setSortOrder(e.target.value)}
+              className="flex items-center gap-2 bg-white hover:bg-gray-100 px-3 py-1 border border-gray-300 rounded-md text-gray-700 text-sm appearance-none cursor-pointer"
+            >
+              <option value="">Sort By </option>
+              <option value="High-Low">High-Low</option>
+              <option value="Low-High">Low-High</option>
+            </select>
+            <svg
+              className="top-1/2 right-3 absolute w-4 h-4 -translate-y-1/2 pointer-events-none transform"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M19 9l-7 7-7-7"
+              />
+            </svg>
           </div>
         </div>
 
@@ -131,7 +149,6 @@ const Installation = () => {
     </div>
   );
 
-  // Uninstall button click handler
   function handleUninstall(id) {
     const updatedApps = installedApps.filter((app) => app.id !== id);
     setInstalledApps(updatedApps);
