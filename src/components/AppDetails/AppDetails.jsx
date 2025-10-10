@@ -4,6 +4,7 @@ import { useLocation } from "react-router";
 const AppDetails = () => {
 
   const [app, setApp] = useState(null);
+  const [isInstalled, setIsInstalled] = useState(false); 
   const location = useLocation();
 
   useEffect(() => {
@@ -15,7 +16,18 @@ const AppDetails = () => {
         setApp(JSON.parse(storedApp));
       }
     }
-  }, [location]);
+  }, [location.state]);
+
+
+  useEffect(() => {
+    if (app) {
+      const installedApps = JSON.parse(localStorage.getItem("installedApps") || "[]");
+      const alreadyInstalled = installedApps.some(a => a.id === app.id);
+      if (alreadyInstalled) {
+        setIsInstalled(true);
+      }
+    }
+  }, [app]);
 
   if (!app) return <p>No app selected.</p>;
   
@@ -23,7 +35,6 @@ const AppDetails = () => {
 
   // Install button click handler
   const handleInstallation = () => {
-    
     const installedApps = localStorage.getItem("installedApps");
     let appsArray = [];
     
@@ -31,12 +42,18 @@ const AppDetails = () => {
       appsArray = JSON.parse(installedApps);
     }
 
-   
-    appsArray.push(app);
+    // Duplicate check
+    const alreadyInstalled = appsArray.some(a => a.id === app.id);
+    if (alreadyInstalled) {
+      alert(`${title} is already installed.`);
+      setIsInstalled(true); 
+      return;
+    }
 
+    appsArray.push(app);
     localStorage.setItem("installedApps", JSON.stringify(appsArray));
 
-    // Alert/confirmation message
+    setIsInstalled(true);
     alert(`${title} has been installed!`);
   }
 
@@ -48,7 +65,7 @@ const AppDetails = () => {
         
         {/* App Image */}
         <img 
-          src= {image} 
+          src={image} 
           alt="App" 
           className="mb-4 md:mb-0 rounded-md w-32 h-32 object-cover"
         />
@@ -77,12 +94,16 @@ const AppDetails = () => {
             </div>
           </div>
 
-          {/* Install Now Button */}
+          {/* Install Now Button (toggle logic added) */}
           <button 
             onClick={handleInstallation} 
-            className="bg-green-500 hover:bg-green-600 px-4 py-2 rounded font-semibold text-white"
+            disabled={isInstalled} 
+            className={`px-4 py-2 rounded font-semibold text-white transition 
+              ${isInstalled 
+                ? "bg-green-900 hover:bg-green-600 " 
+                : "bg-green-500 hover:bg-green-600"}`}
           >
-            Install Now {size}
+            {isInstalled ? "Installed" : `Install Now ${size}`}
           </button>
         </div>
       </div>
@@ -91,7 +112,7 @@ const AppDetails = () => {
       <div>
         <h2 className="mb-2 font-semibold text-lg">Ratings</h2>
         <div className="space-y-1">
-          {[ 
+          {[
             { star: 5, width: "100%" },
             { star: 4, width: "70%" },
             { star: 3, width: "30%" },
