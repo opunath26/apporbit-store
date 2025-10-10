@@ -5,10 +5,10 @@ import hero from '../../assets/hero.png';
 import useApps from '../../Hooks/useApps';
 
 const Home = () => {
-    const apps = useLoaderData();
+    const apps = useLoaderData() || [];
     const data = useApps();
     console.log(data);
-    const featuredApps = apps.slice(0,8)
+    const featuredApps = apps.slice(0,8) ;
     // console.log(apps);
     return (
         <div>

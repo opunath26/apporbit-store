@@ -1,23 +1,25 @@
 import React from 'react';
+import { useNavigate } from 'react-router';
 
 const AppsCard = ({ app }) => {
-    const { title, downloads, image ,ratingAvg } = app;
+    const navigate = useNavigate(); // useNavigate hook
+    const { title, downloads, image, ratingAvg } = app;
+
+    const handleClick = () => {
+        localStorage.setItem("selectedApp", JSON.stringify(app)); // app data save
+        navigate(`/app/${title}`); // /app/:id route navigate// native navigation
+    };
+
     return (
-        <div className="bg-white shadow-md hover:shadow-lg rounded-lg max-w-xs overflow-hidden transition hover:-translate-y-2 duration-300 transform">
-
-            {/* Image */}
+        <div 
+            className="bg-white shadow-md hover:shadow-lg rounded-lg max-w-xs overflow-hidden transition hover:-translate-y-2 duration-300 transform"
+            onClick={handleClick}
+            style={{ cursor: 'pointer' }}
+        >
             <img src={image} alt="App Image" className="p-4 w-80 h-80 object-cover" />
-
             <div className="p-4">
-                {/* Title */}
-                <h2 className="mb-2 font-semibold text-gray-900 text-lg">
-                    {title}
-                </h2>
-
-                {/* Stats */}
+                <h2 className="mb-2 font-semibold text-gray-900 text-lg">{title}</h2>
                 <div className="flex justify-between items-center">
-
-                    {/* Downloads */}
                     <div className="flex items-center bg-green-100 p-2 rounded font-medium text-green-600">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -34,7 +36,6 @@ const AppsCard = ({ app }) => {
                         {downloads}
                     </div>
 
-                    {/* Rating */}
                     <div className="flex items-center bg-orange-100 p-2 rounded font-medium text-orange-400">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -46,7 +47,6 @@ const AppsCard = ({ app }) => {
                         </svg>
                         {ratingAvg}
                     </div>
-
                 </div>
             </div>
         </div>
