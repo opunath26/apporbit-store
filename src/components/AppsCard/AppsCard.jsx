@@ -3,12 +3,12 @@ import { useNavigate } from 'react-router';
 
 const AppsCard = ({ app }) => {
     const navigate = useNavigate(); // useNavigate hook
-    const { title, downloads, image, ratingAvg } = app;
+    const { title, downloads, image, ratingAvg, id } = app;
 
-    const handleClick = () => {
-        localStorage.setItem("selectedApp", JSON.stringify(app)); // app data save
-        navigate(`/app/${title}`); // /app/:id route navigate// native navigation
-    };
+   const handleClick = () => {
+    navigate(`/app/${id}`, { state: { app } });
+};
+
 
     return (
         <div 

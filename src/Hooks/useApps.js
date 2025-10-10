@@ -10,7 +10,7 @@ const useApps = () => {
     setLoading(true);
 
     axios('./appData.json')
-      .then(response => setApps(response.data)) // response.data নিতে হবে
+      .then(response => setApps(response.data))
       .catch(err => setError(err))
       .finally(() => setLoading(false));
   }, []);
