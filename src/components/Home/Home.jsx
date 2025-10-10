@@ -1,14 +1,13 @@
 import React, { useEffect, useState } from 'react';
-import { Link, useLoaderData } from 'react-router';
+import { Link } from 'react-router';
 import AppsCard from '../AppsCard/AppsCard';
 import hero from '../../assets/hero.png';
 import useApps from '../../Hooks/useApps';
 
 const Home = () => {
-  const apps = useLoaderData() || [];
-  const data = useApps();
-  console.log(data);
-  const featuredApps = apps.slice(0, 8);
+  // const loaderData = useLoaderData() || [];
+  const { apps, loading: appsLoading } = useApps(); 
+  const featuredApps = apps?.slice(0, 8) || [];
 
   //  Loading spinner state
   const [scaleUp, setScaleUp] = useState(false);
@@ -24,7 +23,7 @@ const Home = () => {
   }, []);
 
   
-  if (loading)
+  if (loading || appsLoading)
     return (
       <div className="flex flex-col justify-center items-center h-screen">
         <img
@@ -66,6 +65,42 @@ const Home = () => {
         </p>
       </div>
 
+      {/* ================APP==================== */}
+     <div className="flex justify-center items-center gap-4 bg-gray-50 py-10">
+      {/* Google Play Button */}
+      <a
+        href="https://play.google.com/store/apps?hl=en"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="flex items-center gap-2 bg-white hover:shadow-md px-4 py-2 border border-gray-300 rounded-lg transition"
+      >
+        <img
+          src="https://i.ibb.co.com/mCZn58ps/playstore.png" 
+          alt="Google Play"
+          className="w-6 h-6 object-contain"
+        />
+        <span className="font-medium text-gray-700">Google Play</span>
+      </a>
+
+      {/* App Store Button */}
+      <a
+        href="https://www.apple.com/app-store/" 
+        target="_blank"
+        rel="noopener noreferrer"
+        className="flex items-center gap-2 bg-white hover:shadow-md px-4 py-2 border border-gray-300 rounded-lg transition"
+      >
+        <img
+          src="https://i.ibb.co.com/Xf693rTL/appstore.png" 
+          alt="App Store"
+          className="w-6 h-6 object-contain"
+        />
+        <span className="font-medium text-gray-700">App Store</span>
+      </a>
+    </div>
+
+
+
+{/* -------------------BiG ImG-------------------- */}
       <div>
         <div className="flex justify-center pt-5">
           <img src={hero} alt="hero-banner" className="w-3/4" />
@@ -112,9 +147,11 @@ const Home = () => {
       </div>
 
       <div className="gap-5 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4">
-        {featuredApps.map((app) => (
-          <AppsCard key={app.id} app={app} />
-        ))}
+        {featuredApps.length > 0 ? (
+          featuredApps.map((app) => <AppsCard key={app.id} app={app} />)
+        ) : (
+          <p className="col-span-full text-gray-500 text-center">No apps available.</p>
+        )}
       </div>
 
       <div className="flex justify-center">

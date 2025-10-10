@@ -38,3 +38,4 @@ const ErrorPage = ({ error }) => {
 };
 
 export default ErrorPage;
+
