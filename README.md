@@ -33,6 +33,12 @@ AppOrbit Store is a fully responsive and interactive e-commerce web application 
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://velvety-mooncake-22f4be.netlify.app/
+
+---
+
 ## 🚀 How to Run Locally
 1. Clone the repository:  
 ```bash
@@ -41,6 +47,4 @@ git clone https://github.com/opunath26/apporbit-store.git
 3. Start browsing products locally
 
 
-## 🌐 Live Demo
 
-🔗 
