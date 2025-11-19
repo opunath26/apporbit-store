@@ -1,75 +1,46 @@
-<p align="center">
-  <h3 align="center">⌨️ App Orbit</h3>
-</p>
+# 🛒 AppOrbit Store
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Manage+your+tasks+efficiently!;Boost+productivity+with+App+Orbit!;Organize+projects+and+teams!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="App Orbit Typing SVG">
-</p>
-
-<p align="center">
-  <a href="https://apporbit.vercel.app" alt="Live Project" title="Live Project">
-    <img src="https://img.shields.io/badge/Live-Project-green?style=for-the-badge&logo=vercel"/></a>
-  <a href="https://github.com/apu/app-orbit" alt="Repo" title="GitHub Repository">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/></a>
-</p>
-
-
-
-## ⚡ Quick setup
-
-1. Copy-paste the markdown below into your GitHub profile README
-2. Replace the value after `?lines=` with your text. Separate lines of text with semicolons and use `+` or `%20` for spaces.
-3. Adjust the width parameter to fit the full width of your text.
-
-```md
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Manage+your+tasks+efficiently!;Boost+productivity+with+App+Orbit!;Organize+projects+and+teams!)](https://git.io/typing-svg)
-```
-
-4. Star the repo 😄
-
-## ⚙ Demo site
-
-Here you can easily customize your Typing SVG with a live preview.
-
-https://velvety-mooncake-22f4be.netlify.app/
-## 🧑‍💻 Overview
-
-App Orbit is a **productivity and task management web app** that helps users organize daily tasks, track progress, and collaborate with team members.
-It is built with modern web technologies and offers a clean, responsive interface.
+## 📌 Description
+AppOrbit Store is a fully responsive and interactive e-commerce web application that enables users to explore a wide range of products effortlessly. Users can browse through different categories, view detailed product information with images and descriptions, and manage their shopping experience with ease. The app features a clean, modern, and user-friendly interface designed to provide smooth navigation on both desktop and mobile devices. Built entirely with HTML, CSS, and Vanilla JavaScript, this project demonstrates practical skills in DOM manipulation, event handling, and responsive design principles. AppOrbit Store is ideal for anyone looking to practice front-end development or create a functional online store prototype.
 
 ---
 
 ## ⚡ Tech Stack
-
-* **Frontend:** React.js, Tailwind CSS
-* **Backend/Database:** Firebase (Authentication & Realtime DB)
-* **Deployment:** Vercel
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
+- **Styling:** Tailwind CSS (if used) / Custom CSS  
+- **Icons & Fonts:** Font Awesome, Google Fonts  
+- **Deployment:** GitHub Pages / Vercel (optional)  
 
 ---
 
 ## 🌟 Main Features
-
-* User authentication (signup/login)
-* Create, update, delete tasks
-* Real-time data sync with Firebase
-* Responsive design for mobile & desktop
-* Task organization by projects and categories
+- Browse and search products  
+- View product details with images and description  
+- Add items to cart (client-side using JS)  
+- Responsive design for mobile and desktop  
+- Simple and interactive user interface  
 
 ---
 
 ## 🛠 Dependencies
+- **HTML5** – Structure of the web pages  
+- **CSS3** – Styling and layout  
+- **Vanilla JavaScript (ES6+)** – DOM manipulation, events, interactivity  
+- **Tailwind CSS / Custom CSS** – Modern responsive design  
+- **Font Awesome / Google Fonts** – Icons and typography  
 
-* react-router-dom
-* axios
-* react-icons
-* firebase
-* sweetalert2
+> This project does not use any frontend frameworks or external JS libraries.
+
+---
+
+## 🚀 How to Run Locally
+1. Clone the repository:  
+```bash
+git clone https://github.com/opunath26/apporbit-store.git
+2. Open index.html in your browser
+3. Start browsing products locally
 
 
-## Install dependencies:
-npm install
+## 🌐 Live Demo
 
-## Start development server:
-npm start
-
-## Open http://localhost:3000  in your browser
+🔗 
